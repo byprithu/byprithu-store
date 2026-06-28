@@ -9,7 +9,7 @@ import {
 } from 'firebase/firestore'
 
 // ── constants ────────────────────────────────────────────────────
-const IG_HANDLE = 'byprithu'
+const IG_HANDLE = 'byprithu_'
 const IG_URL    = `https://www.instagram.com/${IG_HANDLE}/`
 const SIZES     = ['A4 (21×29.7 cm)', 'A3 (29.7×42 cm)', 'A2 (42×59.4 cm)', 'Custom']
 const EMOJIS    = ['🎨','🖼','🌺','🦋','⭐','🎭','🌸','🔥','🌙','🦚']
